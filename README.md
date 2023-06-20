@@ -1,0 +1,3 @@
+## Next.JS project template
+
+In progress...
